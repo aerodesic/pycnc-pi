@@ -12,4 +12,4 @@ Create a top-level working folder and check this project:
 
   At end, you will have a pycnc-image (sdimg) ready to copy to a microsd.
 
-
+Note: until futher notice, this is a "work in progress" and is not ready for use.
